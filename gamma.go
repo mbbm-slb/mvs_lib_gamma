@@ -1,5 +1,5 @@
 package mvslibgamma
 
 func Gamma() string {
-	return "This is Gamma v0.2.0 speaking."
+	return "This is Gamma v0.3.0 speaking."
 }
